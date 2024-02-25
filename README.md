@@ -1,4 +1,7 @@
 # kikisan
+
+https://youtu.be/RFudBVQI03k
+
 Kikisan adalah sisten scraping data produk dari tokopedia.com yang terdiri dari 7 metode, dan menggunakan microservice sebagai struktur di sistemnya.
 
 🎉 Congratulations, your project was successfully generated with [Create Next Stack](https://www.create-next-stack.com/)!
