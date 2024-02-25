@@ -1,6 +1,6 @@
 # kikisan
 
-https://youtu.be/RFudBVQI03k
+[![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/RFudBVQI03k/hqdefault.jpg)](https://www.youtube.com/watch?v=RFudBVQI03k&t=832s)
 
 Kikisan adalah sisten scraping data produk dari tokopedia.com yang terdiri dari 7 metode, dan menggunakan microservice sebagai struktur di sistemnya.
 
