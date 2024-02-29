@@ -6,6 +6,22 @@ demo => https://youtu.be/RFudBVQI03k
 
 Kikisan adalah sisten scraping data produk dari tokopedia.com yang terdiri dari 7 metode, dan menggunakan microservice sebagai struktur di sistemnya.
 
+### Backend
+Metode HTTPX : https://github.com/codedaffa/metode-httpx.git
+
+Metode Asynchronus HTTPX : https://github.com/codedaffa/metode-asynchttpx.git
+
+Metode Multithread HTTPX : https://github.com/codedaffa/metode-threadhttpx.git
+
+Metode Asynchronus Playwright : https://github.com/codedaffa/metode-asyncplaywright.git
+
+Metode Asynchronus Playwright HTTPX : https://github.com/codedaffa/metode-asyncplaywrighthttpx.git
+
+Metode Multithread Selenium : https://github.com/codedaffa/metode-threadselenium.git
+
+Metode Multithread Selenium HTTPX : https://github.com/codedaffa/metode-threadseleniumhttpx.git
+## 
+
 🎉 Congratulations, your project was successfully generated with [Create Next Stack](https://www.create-next-stack.com/)!
 
 To get started, run:
