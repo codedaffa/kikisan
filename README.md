@@ -4,7 +4,11 @@
 
 demo => https://youtu.be/RFudBVQI03k
 
-Kikisan adalah sisten scraping data produk dari tokopedia.com yang terdiri dari 7 metode, dan menggunakan microservice sebagai struktur di sistemnya.
+Saya telah menyelesaikan penelitian tugas akhir (skripsi) dengan judul "Optimasi Metode Scraping Data Produk Dari Platform Tokopedia.com". Dalam penelitian ini, saya mengembangkan sistem scraping data produk berbasis web yang saya namakan kikisan.site, yang menggabungkan teknologi Next.js sebagai frontend dan FastAPI sebagai backend. Sistem ini dirancang untuk mengimplementasikan 7 variasi metode scraping yang berbeda, yang ditujukan untuk mengoptimalkan proses pengambilan data produk dari platform Tokopedia.com.
+
+Dengan menggunakan Next.js sebagai frontend, saya dapat membangun antarmuka pengguna yang responsif dan ramah pengguna. Sementara itu, FastAPI digunakan sebagai backend untuk mengelola logika bisnis dan mengintegrasikan metode-metode scraping dengan efisien. Sistem ini juga diimplementasikan menggunakan arsitektur microservice, memungkinkan setiap metode scraping beroperasi secara independen dan efisien.
+
+Penelitian ini tidak hanya menghasilkan sistem yang dapat mengambil data produk dari Tokopedia dengan berbagai metode, tetapi juga memberikan wawasan mendalam tentang pengembangan web dan teknik scraping data. Ini merupakan langkah maju yang signifikan dalam kontribusi saya terhadap bidang ilmu komputer dan teknologi informasi.
 
 ### Backend
 Metode HTTPX : https://github.com/codedaffa/metode-httpx.git
